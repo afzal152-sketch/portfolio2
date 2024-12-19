@@ -1,0 +1,109 @@
+#skill-section {
+    height: 1100px;
+    width: 100%;
+    /* border: 2px solid aqua; */
+}
+
+#skill-section #skill-head {
+    /* border: 2px solid yellow; */
+    height: 100%;
+    width: 100%;
+}
+
+#skill-head #skill-hed {
+    /* border: 2px solid aqua ; */
+    text-align: center;
+    margin-top: 30px;
+}
+
+#skill-head #skill-hed h1 {
+    font-size: 70px;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+}
+
+#skill-box {
+    /* border: 2px solid aqua; */
+    margin-top: 30px;
+}
+
+#skill-box #skill-info {
+
+    display: flex;
+    justify-content: space-between;
+    /* border: 2px solid aliceblue; */
+}
+
+#skill-box #skill-html {
+    border: 2px solid #7b00bd;
+    box-shadow: 0 0 12px 12px #7b00bd;
+    height: 100%;
+    width: 30%;
+    margin: 20px 30px;
+    text-align: center;
+
+}
+
+#skill-box #skill-html h1{
+    font-size: 30px;
+    margin: 20px 0;
+}
+
+#skill-box #skill-html img{
+    margin-bottom: 20px;
+}
+
+
+#skill-box #skill-html p{
+    margin-bottom: 20px;
+}
+
+#skill-box #skill-css {
+    border: 2px solid #7b00bd;
+    box-shadow: 0 0 12px 12px #7b00bd;
+    height: 100%;
+    width: 30%;
+    margin: 20px 30px;
+    text-align: center;
+}
+
+#skill-box #skill-css h1{
+    font-size: 30px;
+    margin: 20px 0;
+}
+
+#skill-box #skill-css img{
+    margin: 10px;
+}
+
+#skill-box #skill-css p{
+   margin: 10px;
+}
+
+#skil{
+    border: 2px solid #7b00bd;
+    box-shadow: 0 0 12px 12px #7b00bd;
+    width: 100%;
+    max-width: 40%;
+    margin: 50px auto 0;
+    text-align: center;
+}
+
+#skil #skill-java{
+    height: 100%;
+    width: 100%;
+  
+}
+
+#skil #skill-java h1{
+    font-size: 30px;
+    margin: 20px 0;
+}
+
+#skil #skill-java img{
+    margin: 10px;
+}
+
+#skil #skill-java p{
+    margin: 10px;
+}
